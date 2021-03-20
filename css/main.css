@@ -1,0 +1,38 @@
+p {
+    margin-bottom: 12px;
+  }
+  
+  h1 {
+    margin-bottom: 0;
+  
+    font-weight: 400px;
+    font-size: 36px;
+  }
+  
+  h2 {
+    margin-bottom: 8px;
+  
+    font-weight: 400px;
+    font-size: 32px;
+  }
+  
+  .header-title {
+    margin-bottom: 10px;
+  
+    font-size: 18px;
+  
+    border-bottom: none;
+  }
+  
+  #header {
+    position: center;
+  
+    margin-bottom: 32px;
+  }
+  
+  #footer {
+    position: center;
+  
+    margin-top: 64px;
+  }
+  
